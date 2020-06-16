@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8AEAE67F-6C5B-4F40-BA39-FE4B60B350FD"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "084E6A6F-FCE7-49A4-8D4C-39EEC62F32B9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Movie Tracker/MovieDetail.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "084E6A6F-FCE7-49A4-8D4C-39EEC62F32B9 - 3ee38585565f932c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Movie_Tracker.MovieDetail.body.getter : some"
+                  moduleName = "Movie Tracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunoalvesdasilva/Documents/Projects%20iOS/Movie%20Tracker/Movie%20Tracker/MovieDetail.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "139">
+               </Location>
+               <Location
+                  uuid = "084E6A6F-FCE7-49A4-8D4C-39EEC62F32B9 - ca3da7308e7579a0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.EmptyView, SwiftUI.TupleView&lt;(Movie_Tracker.SectionTitle, SwiftUI.TextField&lt;SwiftUI.Text&gt;)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, SwiftUI.TupleView&lt;(Movie_Tracker.SectionTitle, SwiftUI.HStack&lt;SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.Text, SwiftUI.Spacer)&gt;&gt;, SwiftUI.Slider&lt;SwiftUI.EmptyView, SwiftUI.EmptyView&gt;)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, SwiftUI.TupleView&lt;(Movie_Tracker.SectionTitle, SwiftUI.Toggle&lt;SwiftUI._ConditionalContent&lt;SwiftUI.Text, SwiftUI.Text&gt;&gt;)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.EmptyView, &lt;&lt;opaque return type of (extension in SwiftUI):SwiftUI.View.disabled(Swift.Bool) -&gt; some&gt;&gt;.0, SwiftUI.EmptyView&gt;)&gt; in Movie_Tracker.MovieDetail.body.getter : some"
+                  moduleName = "Movie Tracker"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/brunoalvesdasilva/Documents/Projects%20iOS/Movie%20Tracker/Movie%20Tracker/MovieDetail.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "262">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0395F17D-E7C4-417D-AA6D-9BCFFF553E14"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Movie Tracker/MovieDetail.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
